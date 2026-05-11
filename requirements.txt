@@ -12,9 +12,9 @@ tensorflow-datasets==4.9.3
 tensorflow-graphics==2021.12.3
 tensorflow-io==0.37.1
 tokenizers==0.21.0
-torch==2.5.1
-torchaudio==2.5.1
-torchvision==0.20.1
+torch==2.6.0
+torchaudio==2.6.0
+torchvision==0.21.0
 tqdm==4.66.6
 transformers==4.47.0
 triton==3.1.0
